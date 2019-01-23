@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Data Science/R programming
-permalink: '/DS/R'
+title: Data Science/SQL
+permalink: '/DS/SQL'
 ---
 
 Another sample category page.
